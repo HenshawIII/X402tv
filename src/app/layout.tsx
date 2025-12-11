@@ -47,7 +47,7 @@ export default function RootLayout({
           loginMessage: 'Welcome to 402tv',
           theme: 'light',
           accentColor: '#3351FF',
-          logo: 'https://res.cloudinary.com/dbkthd6ck/image/upload/v1737309623/chainfren_logo_eey39b.png',
+          logo: '',
           // showWalletLoginFirst: false,
           walletChainType:'solana-only',
           walletList: [ 'phantom'],
